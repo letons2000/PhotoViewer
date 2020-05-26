@@ -1,0 +1,9 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8š÷¾öë,
+ksquid:UselessImportCheck"=Remove this unused import 'android.content.res.AssetManager'.(ÜÅÕıÿÿÿÿ8š÷¾öë,
+“squid:UselessImportCheck"eRemove this unused import 'application.test.com.photoviewerapplication.ui.category.CategoryFragment'.(ß¾íıÿÿÿÿ8š÷¾öë,
+Bsquid:S1075"&Remove this hard-coded path-delimiter.(ÂË¾8š÷¾öë,
+Bsquid:S1075"&Remove this hard-coded path-delimiter.(Æ½ü´8š÷¾öë,
+osquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(ç¡÷Ëüÿÿÿÿ8š÷¾öë,
+Dsquid:S1185"(Remove this method to simply inherit it.(Ù«µ§8š÷¾öë,
+osquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¤ÀŞœúÿÿÿÿ8š÷¾öë,

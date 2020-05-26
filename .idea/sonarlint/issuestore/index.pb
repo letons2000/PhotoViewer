@@ -1,0 +1,27 @@
+
+T
+$app/src/main/res/layout/row_item.xml,3\1\31eca07b4730d2a8d7459f4581293acb67fd0417
+ä
+Zapp/src/main/java/application/test/com/photoviewerapplication/ui/home/model/PhotoData.java,9\0\90f274b82b6125e7792984363ce0ed8424d7cd33
+Ç
+Rapp/src/main/java/application/test/com/photoviewerapplication/ui/MainContract.java,3\1\317312e5524ff485c152665e848daa867efd8c32
+á
+Wapp/src/main/java/application/test/com/photoviewerapplication/ui/home/HomeContract.java,a\d\ad828e45c3d103060d94acb7a208374e530bda8c
+è
+_app/src/main/java/application/test/com/photoviewerapplication/ui/category/CategoryFragment.java,0\5\05bed9f7e93ae83f83d61145b0839b6a832dede7
+ã
+[app/src/main/java/application/test/com/photoviewerapplication/ui/detail/DetailFragment.java,d\d\ddfce89973a648ad800c80fd6f38174cc67330ae
+[
++app/src/main/res/layout/fragment_detail.xml,1\2\124e27a664a59bdc0958fb6899fe7332369da4ef
+S
+#app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
+Ç
+Rapp/src/main/java/application/test/com/photoviewerapplication/ui/MainActivity.java,a\f\af38215997cce747e2c931989d6271ab0e4f17b6
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+á
+Wapp/src/main/java/application/test/com/photoviewerapplication/ui/home/HomeFragment.java,7\8\785283b284bc58d27074acaf00bdd7112fabbc2a
+Y
+)app/src/main/res/layout/fragment_home.xml,3\1\31c5880846ef63ff1963efbe141ddfd56680bb19
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
